@@ -4,11 +4,11 @@
     "nome": "SAHARIENNE SLEEVELESS SHIRT IN FAILLE",
     "preco": 12000,
     "descricao": "SLEEVELESS SAFARI SHIRT WITH A POINTED COLLAR, FLAP POCKETS AND EPAULETS.",
-    "imagemSrc": [
+    "imagemSrc": [{
       "img1":"https://saint-laurent.dam.kering.com/m/143baca501110290/Medium-766883Y6D381000_A.jpg?v=3",
       "img2":"https://saint-laurent.dam.kering.com/m/3f50d0eb415463b7/Medium-766883Y6D381000_Y.jpg?v=1", 
       "img3":"https://saint-laurent.dam.kering.com/m/3b902893cfcb8d7/Medium-766883Y6D381000_B.jpg?v=2"
-    ],
+    }],
     "brand": "Saint laurent",
     "colecao": "SPRING"
   },
@@ -17,11 +17,11 @@
     "nome": "HIGH-WAISTED PANTS IN FAILLE",
     "descricao": "HIGH-WAISTED PANTS WITH A STRAIGHT LEG AND CENTER CREASE, FEATURING SLASH POCKETS AND BELT LOOPS AT THE WAIST.",
     "preco": 10000,
-    "imagemSrc": [
+    "imagemSrc": [{
       "img1":"https://saint-laurent.dam.kering.com/m/7d068262f0cd33ce/Medium-774421Y6D381000_A.jpg?v=2",
       "img2":"https://saint-laurent.dam.kering.com/m/3f50d0eb415463b7/Medium-766883Y6D381000_Y.jpg?v=1", 
       "img3":"https://saint-laurent.dam.kering.com/m/22f5bf689e8af8db/Medium-774421Y6D381000_B.jpg?v=2"
-    ],
+    }],
     "brand": "Saint laurent",
     "colecao": "SPRING"
   },
@@ -30,11 +30,11 @@
     "nome": "RAINER BOOTS IN PATENT LEATHER",
     "descricao": "ANKLE BOOTS WITH A SQUARE POINTED TOE AND TRAPEZOID HEEL, FEATURING A SIDE ZIP CLOSURE.",
     "preco": 7000,
-    "imagemSrc": [
+    "imagemSrc": [{
       "img1":"https://saint-laurent.dam.kering.com/m/780aacbd08eb7761/Medium-77686107RAA1000_A.jpg?v=2",
       "img2":"https://saint-laurent.dam.kering.com/m/4c404722a7decf15/Medium-77686107RAA1000_Y.jpg?v=4", 
       "img3":"https://saint-laurent.dam.kering.com/m/44f944e69690412b/Medium-77686107RAA1000_B.jpg?v=1"
-    ],
+    }],
     "brand": "Saint laurent",
     "colecao": "SPRING"
   },
@@ -44,11 +44,11 @@
     "descricao": "DOUBLE-BREASTED, SIX-BUTTON JACKET WITH A PEAKED LAPEL AND BROAD SHOULDERS, MADE WITH RESPONSIBLE VISCOSE AND RECYCLED CELLULOSE.",
     "preco": 14000,
     "https://saint-laurent.dam.kering.com/m/75ccc1fa32641358/Medium-774992Y525R1000_A.jpg?v=2"
-    "imagemSrc": [
+    "imagemSrc": [{
       "img1":"https://saint-laurent.dam.kering.com/m/569ab5bb30ada445/Medium-774992Y525R1000_Y.jpg?v=1",
       "img2":"https://saint-laurent.dam.kering.com/m/75ccc1fa32641358/Medium-774992Y525R1000_A.jpg?v=2", 
       "img3":"https://saint-laurent.dam.kering.com/m/23cde3629f8d8191/Medium-774992Y525R1000_B.jpg?v=2"
-    ],
+    }],
     "brand": "Saint laurent",
     "colecao": "SPRING"
   },
@@ -58,11 +58,11 @@
     "descricao": "HIGH-WAISTED PANTS MADE WITH RESPONSIBLE VISCOSE AND RECYCLED POLYESTER, FEATURING A STRAIGHT LEG WITH CENTER CREASE, SLASH POCKETS AND BELT LOOPS AT THE WAIST.",
     "preco": 14000,
     "imagemSrc": "https://saint-laurent.dam.kering.com/m/37351ac1245667c7/Medium-782944Y2F951000_A.jpg?v=1",
-    "imagemSrc": [
+    "imagemSrc": [{
       "img1":"https://saint-laurent.dam.kering.com/m/37351ac1245667c7/Medium-782944Y2F951000_A.jpg?v=1",
       "img2":"https://saint-laurent.dam.kering.com/m/75ccc1fa32641358/Medium-774992Y525R1000_A.jpg?v=2", 
       "img3":"https://saint-laurent.dam.kering.com/m/4ce6a75f4c573efa/Medium-782944Y2F951000_B.jpg?v=1"
-    ],
+    }],
     "brand": "Saint laurent",
     "colecao": "SPRING"
   }
